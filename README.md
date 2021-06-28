@@ -2,6 +2,7 @@
 I am a fullstack web developer from France 
 
 - 🔭 Working on multiple frontend and backend project using Laravel and Vue.js
+- ✈️ I’m looking for a new country to start working in
 
 ## Connect with me
 
